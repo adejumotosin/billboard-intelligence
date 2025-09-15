@@ -41,7 +41,7 @@ st.sidebar.caption("📍 *This project is a Lagos-only prototype. Scale-up to ot
 if section == "Overview":
     st.header("🎯 Design Thinking Framework Overview")
     st.markdown("""
-    The project follows the **Design Thinking** methodology to address a major inefficiency in **Lagos’ contribution to Nigeria’s ₦50B outdoor advertising market**. 
+    The project follows the **Design Thinking** methodology to address a major inefficiency in **Lagos’ contribution to Nigeria’s $155million outdoor advertising market(Mordor Intelligence)**. 
 
     This prototype focuses on a **Lagos-only test run**, which can later be scaled to other cities in Nigeria or Africa.
 
