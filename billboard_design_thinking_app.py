@@ -206,8 +206,14 @@ elif section == "Timeline & Resources":
 
     st.subheader("👨‍💻 Team & Tools")
     st.markdown("""
-    - Researcher (you), Faculty Advisor  
-    - Volunteer Experts (marketing agencies)  
+    - AKINLABI TAOFEEK
+    - ADEJUMO OLUWATOSIN
+    - DISU FATHIA
+    - ADEOSUN GBEMISOLA
+    - ALADOYE GRACE
+    - BAKARE ABIODUN
+    - HAMZAT HABEEB
+      
     - Python, PostGIS, Streamlit, OpenStreetMap  
     """)
 
